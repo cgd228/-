@@ -1,0 +1,8 @@
+{
+  "singleQuote":true,
+  "semi": false,
+  "importOrderSeparation": false,
+  "printWidth": 120,
+  "endOfLine": "auto"
+}
+  
